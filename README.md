@@ -7,7 +7,7 @@ As per the objective -
 
 Task 1 is to Read and inspect the dataset
 
-Task 2 is to do the Data Analysis where as per requirement budget vs profit analysis, analysis of the Average rating of the movie, most popular actors etc is done
+Task 2 is to do the Data Analysis as per requirement, like - budget vs profit analysis, analysis of the Average rating of the movie, most popular actors, etc.
 
 Task 3 Demographic Analysis - In the dataframe, most of the last columns are related to demographics of the voters. There are also three genre columns indicating the genres of a particular movie. To analyse the voters across all demographics and also see how these vary across various genres this analysis is required.
 
